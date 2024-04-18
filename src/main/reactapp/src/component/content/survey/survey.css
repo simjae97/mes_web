@@ -1,0 +1,17 @@
+#surveyCssBox{
+    background-color: #fff;
+    border: 2px solid #ccd0d3;
+    width: 90%;
+    margin: 0 auto;
+    padding: 24px 10px;
+    margin-top: 20px;
+}
+
+/* workplan 출력 부분 END ====================================== */
+/* Survey 출력부분 */
+#surveyCssBox>form>h3{margin: 10px 0px;}
+#surveyCssBox>form>h3>span{margin: 0px 10px;}
+
+#surveyBtn{
+    width: 100px;height: 40px;
+}

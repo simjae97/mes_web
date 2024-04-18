@@ -1,0 +1,43 @@
+
+
+
+#progressWrap{
+    width: 950px;
+    margin: 0 auto;
+    margin-bottom: 120px;
+}
+
+#progressWrap > h2{
+    margin-top: 120px;
+}
+
+#progressDiv{
+    border: 2px solid #a19e9e;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.progressView{
+    margin-top: 15px;
+}
+
+.progressDataWrap{
+    width: 890px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border-bottom: 1px solid #5c5c5c;
+    padding-bottom: 5px;    
+}
+
+.progressData{
+    display: inline-block;
+    width: 180px;    
+    margin: 15px 0px 5px 30px;
+    box-sizing: border-box;
+    
+}
+.progressData > p {
+    font-weight: bolder;
+}

@@ -1,0 +1,28 @@
+#surveyCssBox,#materialinputCssBox{
+    background-color: #fff;
+    border: 2px solid #ccd0d3;
+    width: 90%;
+    margin: 0 auto;
+    padding: 24px 10px;
+    margin-top: 20px;
+}
+/* materialinputCssBox 출력 부분 */
+#materialinputCssBox{
+    display: flex; 
+    overflow-x: auto;
+    justify-content: space-around;
+}
+.materialinputCss{
+    box-shadow: 2px 2px 2px gray;
+    margin: 0px 5px;
+    min-width: 210px;
+}
+
+/* workplan 출력 부분 END ====================================== */
+/* Survey 출력부분 */
+#surveyCssBox>form>h3{margin: 10px 0px;}
+#surveyCssBox>form>h3>span{margin: 0px 10px;}
+
+
+
+.inputCon{font-weight: bold;}

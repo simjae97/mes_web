@@ -1,0 +1,33 @@
+.sinputbutton {
+    width: 100px;
+    display :inline-block;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    background-color: #d3d3d3;
+    color: black;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.sinputinput {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 적절한 쉐도우 스타일 적용 */
+    padding: 8px; /* 필요한 경우 패딩 추가 */
+}
+
+.smarquee{
+    font-size: 19px;
+}
+
+.sselect{
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 적절한 쉐도우 스타일 적용 */
+    padding: 8px; /* 필요한 경우 패딩 추가 */
+    width: 110px;
+    margin-bottom: 10px;
+}
